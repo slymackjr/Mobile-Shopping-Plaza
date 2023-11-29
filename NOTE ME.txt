@@ -1,0 +1,76 @@
+install packages using npm (node.js with npm)
+npm install jquery 
+npm install popper.js 
+npm install bootstrap
+npm install @fortawesome/fontawesome-free
+npm install owl.carousel
+npm install isotope-layout
+
+
+update the packages using npm(node.js with npm)
+npm update popper.js --save
+npm update jquery --save
+pm update bootstrap --save
+npm update @fortawesome/fontawesome-free --save
+npm update owl.carousel --save
+npm update isotope-layout
+############################################################################
+
+MYSQL database MariaDB
+----------------------
+MariaDB
+C:\xampp\mysql\bin>mysql -u root -p
+Enter password:
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 2431
+Server version: 10.4.24-MariaDB mariadb.org binary distribution
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> show databases;
++--------------------+
+| Database           |
++--------------------+
+| agroculture        |
+| bolt               |
+| contactdb          |
+| cvdb               |
+| ecomm              |
+| ecommerce          |
+| eduauth            |
+| information_schema |
+| library_ms         |
+| mysql              |
+| performance_schema |
+| phpmyadmin         |
+| prince             |
+| reservation        |
+| shop               |
+| shopping           |
+| store              |
+| test               |
++--------------------+
+18 rows in set (0.002 sec)
+
+MariaDB [(none)]>
+
+MariaDB [(none)]> use test;
+Database changed
+MariaDB [test]> create user 'jerry'@'localhost' identified by 'jerry';
+Query OK, 0 rows affected (0.017 sec)
+
+MariaDB [test]> grant all on test.* to 'jerry'@'localhost';
+Query OK, 0 rows affected (0.003 sec)
+
+MariaDB [test]> quit
+Bye
+
+C:\xampp\mysql\bin>dir
+
+
+
+
+
+
