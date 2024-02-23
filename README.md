@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of back-to-top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
 
@@ -24,7 +24,7 @@
   <h3 align="center">Mobile Shopping Plaza</h3>
 
   <p align="center">
-    An awesome site to get the smartphone of your own choosing.
+    An awesome site to get the smartphone of your choosing.
     <br />
     <a href="https://github.com/slymackjr/Mobile-Shopping-Plaza"><strong>Explore the docs »</strong></a>
     <br />
@@ -72,7 +72,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Mobile Shopping Plaza is a web application that allows users to choose a smartphone of their choice, add it to the cart, and make payments. The login page provides access to both users and administrators. Administrators can view the number of users, add and delete products, and check messages sent through the contact us form. Future development includes sales monitoring and real-time payment and delivery services.
+Mobile Shopping Plaza is a web application that allows users to choose a smartphone of their choice, add it to the cart, and make payments. The login page provides access to both users and administrators. Administrators can view the number of users, add and delete products, and check messages sent through the Contact Us form. Future development includes sales monitoring and real-time payment and delivery services.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,9 +119,9 @@ This is an example of how you may give instructions on setting up your project l
 
 ## Usage
 
-The Mobile shopping plaza site will is designed with user interactive interfaces,
+The Mobile shopping plaza site will be designed with user-interactive interfaces,
  and can be considered easy to interact with. Also, the administrator is given 
-a privilege to also login using the normal user login platform but using their own
+a privilege to also log in using the normal user login platform but using their own
  credentials making it easy for the administrator to see their business anywhere and at any time 
 and view their progress.
 
@@ -216,7 +216,7 @@ Project Link: [https://github.com/slymackjr/Mobile-Shopping-Plaza](https://githu
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-I would like to thanks these wonder full tools that enable me to make it all happen.
+I would like to thank these wonderful tools that enable me to make it all happen.
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
@@ -225,6 +225,8 @@ I would like to thanks these wonder full tools that enable me to make it all hap
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
+* [PHP](https://www.php.net/)
+* [JavaScript](https://www.javascript.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
