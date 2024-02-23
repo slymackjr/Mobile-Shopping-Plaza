@@ -234,7 +234,7 @@ I would like to thank these wonderful tools that enable me to make it all happen
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/slymackjr/Mobile-Shopping-Plaza.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/slymackjr/Mobile-Shopping-Plaza.svg?style=for-the-badge&color=4EA94B
 [contributors-url]: https://github.com/slymackjr/Mobile-Shopping-Plaza/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/slymackjr/Mobile-Shopping-Plaza.svg?style=for-the-badge
 [forks-url]: https://github.com/slymackjr/Mobile-Shopping-Plaza/network/members
