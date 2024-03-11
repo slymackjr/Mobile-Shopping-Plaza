@@ -35,7 +35,7 @@ include ('include/sidebar_product_list.php');
                 <div class="card">
                     <div class="card-body">
                         <h5 class="card-title">Products</h5>
-                        <a href="add-product.php" ">
+                        <a href="add-product.php">
                         <button type="submit" name="cid" class="btn btn-outline-success"><i class="bi bi-plus"></i>Add Product</button>
                         </a>
 

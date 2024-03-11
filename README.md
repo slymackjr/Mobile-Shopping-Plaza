@@ -1,4 +1,3 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
 
@@ -232,7 +231,7 @@ I would like to thanks these wonder full tools that enable me to make it all hap
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/slymacljr/Mobile-Shopping-Plaza.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/slymackjr/Mobile-Shopping-Plaza.svg?style=for-the-badge&color=4EA94B
 [contributors-url]: https://github.com/slymackjr/Mobile-Shopping-Plaza/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/slymackjr/Mobile-Shopping-Plaza.svg?style=for-the-badge
 [forks-url]: https://github.com/slymackjr/Mobile-Shopping-Plaza/network/members
